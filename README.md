@@ -1,2 +1,2 @@
 # latihan_branches
-#Ini adalah latihan branches terbaru 
+#Ini adalah latihan branches pertama
